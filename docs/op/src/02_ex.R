@@ -1,0 +1,13 @@
+x <- c(5.9, 6.3, 6.4, 7.8, 7.6)
+m <- mean(x)
+s <- sd(x)
+n <- length(x)
+df <- length(x) - 1
+qt_l <- qt(0.025, df)
+qt_h <- qt(0.975, df)
+m_l <- m + qt_l * s / (n**0.5)
+m_h <- m + qt_h * s / (n**0.5)
+print(m_l)
+print(m_h)
+tt <- t.test(x)
+print(tt$conf.int[1:2])
