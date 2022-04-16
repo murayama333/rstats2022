@@ -5,13 +5,13 @@
 * [Rプログラミング](docs/02.md)
     - [RStudio](docs/03.md)
     - [Rプログラミング入門](docs/04.md)
-        - [Ex - Rプログラミング入門](docs/ex/04_ex.md)
     - [ベクトルの操作](docs/05.md)
-        - [Ex - ベクトルの操作](docs/ex/05_ex.md)
     - [行列の操作](docs/06.md)
-        - [Ex - 行列の操作](docs/ex/06_ex.md)
     - [データフレームの操作](docs/07.md)
-        - [Ex - データフレームの操作](docs/ex/07_ex.md)
+    - [Ex - Rプログラミング入門](docs/ex/04_ex.md)
+    - [Ex - ベクトルの操作](docs/ex/05_ex.md)
+    - [Ex - 行列の操作](docs/ex/06_ex.md)
+    - [Ex - データフレームの操作](docs/ex/07_ex.md)
     - 配列の操作
     - リストの操作
     - ファクター型
