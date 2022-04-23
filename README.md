@@ -8,7 +8,6 @@
     - [ベクトルの操作](docs/05.md)
     - [行列の操作](docs/06.md)
     - [データフレームの操作](docs/07.md)
-    - [Ex - Rプログラミング入門](docs/ex/04_ex.md)
     - [Ex - ベクトルの操作](docs/ex/05_ex.md)
     - [Ex - 行列の操作](docs/ex/06_ex.md)
     - [Ex - データフレームの操作](docs/ex/07_ex.md)
