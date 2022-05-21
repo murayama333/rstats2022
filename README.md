@@ -16,10 +16,10 @@
     - ファクター型
     - apply関数
 
-* Tidyverse
-    * tibble
-    * dplyr
-    * ggplot2
+* [Tidyverse](201.md)
+    * [tibble](202.md)
+    * [dplyr](203.md)
+    * [ggplot2](204.md)
     * readr
     * tidyr
     * stringr
@@ -45,10 +45,10 @@
         - [四分位数と箱ひげ図](docs/106.md)
         - [質的変数](docs/107.md)
     - 2変数データの要約
-        - 散布図
-        - 共分散
-        - 相関係数
-        - クロス集計表
+        - [散布図](108.md)
+        - [共分散](109.md)
+        - [相関係数](110.md)
+        - [クロス集計表](111.md)
 
 * 確率
     - 場合の数
