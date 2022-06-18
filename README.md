@@ -11,10 +11,10 @@
     - [Ex - ベクトルの操作](docs/ex/05_ex.md)
     - [Ex - 行列の操作](docs/ex/06_ex.md)
     - [Ex - データフレームの操作](docs/ex/07_ex.md)
-    - 配列の操作
-    - リストの操作
-    - ファクター型
-    - apply関数
+    - [リストの操作](docs/08.md)
+    - [配列の操作](docs/09.md)
+    - [ファクター型](docs/10.md)
+    - [apply関数](docs/11.md)
 
 * [Tidyverse](docs/201.md)
     * [tibble](docs/202.md)
