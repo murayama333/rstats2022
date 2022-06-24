@@ -13,18 +13,19 @@
     - [Ex - データフレームの操作](docs/ex/07_ex.md)
     - [リストの操作](docs/08.md)
     - [配列の操作](docs/09.md)
-    - [ファクター型](docs/10.md)
+    - [文字列関数](docs/12.md)
     - [apply関数](docs/11.md)
+    - [ファクター型](docs/10.md)
 
 * [Tidyverse](docs/201.md)
     * [tibble](docs/202.md)
     * [dplyr](docs/203.md)
     * [ggplot2](docs/204.md)
-    * readr
-    * tidyr
-    * stringr
-    * forcats
-    * purrr
+    * [stringr](docs/207.md)
+    * [purrr](docs/209.md)
+    * [forcats](docs/208.md)
+    * [readr](docs/205.md)
+    * [tidyr](docs/206.md)
 
 * Shiny
     * Shinyアプリケーションの基本
