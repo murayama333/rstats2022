@@ -28,8 +28,7 @@
     * [tidyr](docs/206.md)
     * [Ex - Tidyverseの実践1](docs/210.md)
     * [Ex - Tidyverseの実践2](docs/211.md)
-
-
+    * [Ex - Tidyverseの実践3](docs/212.md)
 
 * Shiny
     * Shinyアプリケーションの基本
