@@ -16,6 +16,7 @@
     - [文字列関数](docs/12.md)
     - [apply関数](docs/11.md)
     - [ファクター型](docs/10.md)
+    - [ファイルの入出力][docs/13.md]
 
 * [Tidyverse](docs/201.md)
     * [tibble](docs/202.md)
