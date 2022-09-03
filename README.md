@@ -17,6 +17,7 @@
     - [apply関数](docs/11.md)
     - [ファクター型](docs/10.md)
     - [ファイルの入出力](docs/13.md)
+    - [日付の操作](docs/14.md)
 
 * [Tidyverse](docs/201.md)
     * [tibble](docs/202.md)
@@ -31,6 +32,7 @@
     * [Ex - Tidyverseの実践2](docs/211.md)
     * [Ex - Tidyverseの実践3](docs/212.md)
     * [Ex - Tidyverseの実践4](docs/213.md)
+    * [lubridate](docs/214.md)
 
 * Shiny
     * Shinyアプリケーションの基本
